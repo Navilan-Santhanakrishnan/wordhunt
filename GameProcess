@@ -1,0 +1,22 @@
+# Word Hunt Game Development Process
+
+I followed a step-by-step process to develop the Word Hunt game:
+
+## 1. Conceptualization
+I brainstormed ideas and defined the game's mechanics. The goal was to create a word puzzle game where players unscramble letters to form specific words within a time limit.
+
+## 2. Design
+Using tools like Adobe Photoshop and Photopea, I designed a visually appealing interface. I created a crossword-style grid and added graphics and icons to enhance the game's aesthetics.
+
+## 3. Development
+I chose to develop the game using Java 8. I wrote classes and methods to handle tasks such as generating random letter sets, checking word validity, and managing the time limit for each level.
+
+## 4. Implementation
+I created a website using Vercel to host and distribute the Word Hunt game. The website provided a platform for players to access and download the game easily.
+
+## 5. Testing and Refinement
+I conducted thorough testing and gathered feedback from testers. I addressed any bugs or issues and made improvements to the gameplay, user interface, and mechanics based on the feedback received.
+
+## 6. Deployment and Distribution
+After refining the game, I deployed it on the website. Players could now access and enjoy the Word Hunt game, downloading it as desired.
+
