@@ -1,0 +1,30 @@
+Random Letters: Y E R A D
+3: Red, Era, Day
+4: Read, Yard
+5: Ready
+
+Random Letters: E A D B R
+3: Bad, Rad, Red
+4: Dare, Bear
+5: Bread
+
+Random letters: R A V E B
+3: Bar, Era, Ear
+4: Bear, Verb
+5: Brave
+
+Random letters: N S T O E 
+3: Set, Net, Son
+4: Note, Tone
+5: Stone
+
+Random letters: R P S H A
+3: Ash, Has, Rap
+4: Rash, Harp
+5: Sharp
+
+Random letters: M R E A D
+3: Red, Ram, Mad
+4: Read, Dare
+5: Dream
+
